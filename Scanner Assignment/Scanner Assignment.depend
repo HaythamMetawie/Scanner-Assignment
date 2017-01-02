@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478782263 source:c:\users\user\documents\scanner assignment\scanner.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<fstream>
+
